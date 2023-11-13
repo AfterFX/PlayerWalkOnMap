@@ -30,3 +30,5 @@ npm start
 **Infinite World**: A vast world of 10,000x10,000 units, divided into tiles, offers an extensive area for exploration.
 
 **Efficient Tile Loading**: As the player moves, the game dynamically loads new tiles into view. This on-demand loading ensures that the world continues to expand infinitely without overwhelming the device's memory.
+
+![](video.gif)
